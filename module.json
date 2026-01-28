@@ -33,7 +33,7 @@
     ]
   },
 
-  "url": "https://github.com/brunocalado/dungeon-world-extra-content",
+  "url": "https://github.com/sdroscher/dungeon-world-extra-content",
   "manifest": "https://raw.githubusercontent.com/sdroscher/dungeon-world-extra-content/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/dungeon-world-extra-content/zip/main"               
+  "download": "https://codeload.github.com/sdroscher/dungeon-world-extra-content/zip/main"               
 }
